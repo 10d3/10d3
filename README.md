@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Herley.netlify.app](Herley.netlify.app)
 
-- 💬 Ask me about **react, JS, Tailwind**
+- 💬 Ask me about **React, NextJS, Django, NodeJS, JS, Tailwind**
 
 - 📫 How to reach me **marcherleyantoine@gmail.com**
 
