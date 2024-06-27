@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 10D3</h1>
+<h1 align="center">Hi, I'm Rley</h1>
 <h3 align="center">A passionate fullstack developer from Haiti</h3>
 
 <p align="center">
