@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm 10D3</h1>
-<h3 align="center">A passionate frontend developer from Haiti</h3>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=10d3&label=Profile%20views&color=0e75b6&style=flat" alt="10d3" />
-</p>
+<h3 align="center">A passionate fullstack developer from Haiti</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -138,4 +134,16 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=10d3&show_icons=true&locale=en&layout=compact" alt="10d3" />
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=10d3&label=Profile%20views&color=0e75b6&style=flat" alt="10d3" />
 </p>
