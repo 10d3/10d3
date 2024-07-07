@@ -1,3 +1,5 @@
+<img src="https://placeit.net/c/design-templates/stages/twitter-header-generator-with-a-latte-art-image-1089d" alt="aherleym" height="30" width=100%" />
+
 <h1 align="center">Hi, I'm Rley</h1>
 <h3 align="center">A passionate fullstack developer from Haiti</h3>
 
