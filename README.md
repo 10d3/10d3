@@ -25,10 +25,6 @@
 
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=10d3&show_icons=true&locale=en&layout=compact" alt="10d3" />
-</p>
-
 <br>
 <br>
 <br>
