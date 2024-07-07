@@ -1,7 +1,7 @@
 <img src="https://github.com/10d3/10d3/blob/7592e308043055570b8f0521c586493fbd6f2a5b/0d8c6a27b4b039d5b9cfe8aa4777766d.png" alt="aherleym" height="auto" width="100%" />
 
-<h2 align="center">Hi, I'm Rley</h2>
-<h3 align="center">A passionate fullstack developer from Haiti</h3>
+
+<h3 align="center">Hey I'm Rley a passionate fullstack developer from Haiti</h3>
 
 
 - I’m currently working on [AlloBillet](https://github.com/10d3/maplas.git)
