@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Rley</h1>
 <h3 align="center">A passionate fullstack developer from Haiti</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=10d3" alt="10d3" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on [AlloBillet](https://github.com/10d3/maplas.git)
 - 🌱 I’m currently learning **NextJS TypeScript**
