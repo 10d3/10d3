@@ -1,6 +1,6 @@
 <img src="https://github.com/10d3/10d3/blob/7592e308043055570b8f0521c586493fbd6f2a5b/0d8c6a27b4b039d5b9cfe8aa4777766d.png" alt="aherleym" height="auto" width="100%" />
 
-<h2>I'm Rley</h2>
+<h3>I'm Rley</h3>
 <h3 align="left">A passionate fullstack developer from Haiti</h3>
 
 <h2>What I am working on ?</h2>
