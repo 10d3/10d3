@@ -20,6 +20,25 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aherleym" height="30" width="40" />
   </a>
 </p>
+
+```JSX
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+
+class Child extends Component {
+  render() {
+    return (
+        <p className="App-intro">
+          I'm a childish component
+        </p>
+    );
+  }
+}
+
+export default Child;
+```
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=10d3&label=Profile%20views&color=0e75b6&style=flat" alt="10d3" />
 </p>
