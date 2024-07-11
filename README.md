@@ -22,21 +22,7 @@
 </p>
 
 ```JSX
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-class Child extends Component {
-  render() {
-    return (
-        <p className="App-intro">
-          I'm a childish component
-        </p>
-    );
-  }
-}
-
-export default Child;
+staff.filter(worker => worker.isSenior).map(p => p.salary + p.salaryTax).reduce((acc, curr) => acc + curr, 0)
 ```
 
 <p align="right">
