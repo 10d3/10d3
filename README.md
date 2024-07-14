@@ -21,8 +21,32 @@
   </a>
 </p>
 
-```JSX
-staff.filter(worker => worker.isSenior).map(p => p.salary + p.salaryTax).reduce((acc, curr) => acc + curr, 0)
+```JSX const plans = await stripe.plans.list({
+    active: true,
+  });
+
+  const data = plans.data;
+
+  for (const element of data) {
+    await prisma.plan.upsert({
+      where: {
+        productPriceId: element.id,
+      },
+      update: {
+        productId: element.product as string,
+        price: element.amount as number,
+        interval: element.interval,
+        intervalCount: element.interval_count,
+      },
+      create: {
+        productPriceId: element.id,
+        productId: element.product as string,
+        price: element.amount as number,
+        interval: element.interval,
+        intervalCount: element.interval_count,
+      },
+    });
+  }
 ```
 
 <p align="right">
