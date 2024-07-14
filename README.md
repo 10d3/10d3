@@ -21,7 +21,8 @@
   </a>
 </p>
 
-```JSX const plans = await stripe.plans.list({
+```JSX
+  const plans = await stripe.plans.list({
     active: true,
   });
 
