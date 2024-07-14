@@ -15,12 +15,6 @@
 - I've already build my own NextJS Boilerplate
 - Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aherleym" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aherleym" height="30" width="40" />
-  </a>
-</p>
 
 ```JSX
   const plans = await stripe.plans.list({
@@ -50,6 +44,15 @@
     });
   }
 ```
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aherleym" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aherleym" height="30" width="40" />
+  </a>
+</p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=10d3&label=Profile%20views&color=0e75b6&style=flat" alt="10d3" />
