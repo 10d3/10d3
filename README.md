@@ -6,12 +6,13 @@
 <h2 font-size=".7rem">What I am working on ?</h2>
 
 - I’m currently working on [AlloBillet](https://github.com/10d3/maplas.git)
-- I’m currently learning **NextJS TypeScript**
+- I’m currently learning **Anything I find interesting**
 - All of my projects are available at [herley.netlify.app](https://herley.netlify.app)
-- I regularly write articles on [herley.netlify.app/blog](https://herley.netlify.app/blog)
+- I regularly (not really) write articles on [herley.netlify.app/blog](https://herley.netlify.app/blog)
 - Ask me about **React, NextJS, Django, NodeJS, TypeScript, TailWindCss**
 - How to reach me **marcherleyantoine@gmail.com**
 - Know about my experiences [here](https://herley.netlify.app/certificat.pdf)
+- I've already build my own NextJS Boilerplate
 - Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
