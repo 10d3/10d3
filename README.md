@@ -21,25 +21,24 @@
     active: true,
   });
 
-  const data = plans.data;
 
-  for (const element of data) {
+  for (const plan of plans.data) {
     await prisma.plan.upsert({
       where: {
-        productPriceId: element.id,
+        productPriceId: plan.id,
       },
       update: {
-        productId: element.product as string,
-        price: element.amount as number,
-        interval: element.interval,
-        intervalCount: element.interval_count,
+        productId: plan.product as string,
+        price: plan.amount as number,
+        interval: plan.interval,
+        intervalCount: plan.interval_count,
       },
       create: {
-        productPriceId: element.id,
-        productId: element.product as string,
-        price: element.amount as number,
-        interval: element.interval,
-        intervalCount: element.interval_count,
+        productPriceId: plan.id,
+        productId: plan.product as string,
+        price: plan.amount as number,
+        interval: plan.interval,
+        intervalCount: plan.interval_count,
       },
     });
   }
