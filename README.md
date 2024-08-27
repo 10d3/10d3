@@ -2,6 +2,7 @@
 
 <h3>Hey, I'm Rley 👋🏼</h3>
 <h3 font-size="0.7rem" align="left">A passionate fullstack developer from Haiti</h3>
+<h3 font-size="1.5rem" align="left">Veni, vidi, codi</h3>
 
 <h2 font-size=".7rem">What I am working on ?</h2>
 
