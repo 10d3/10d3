@@ -9,7 +9,7 @@
 - I’m currently working on [AlloBillet](https://github.com/10d3/maplas.git)
 - I’m currently learning **Anything I find interesting**
 - All of my projects are available at [my portfolio](https://amherley.vercel.app/) but it's not finished yet
-- I regularly (not really) write articles on [herley.netlify.app/blog](https://amherley.vercel.app/blog)
+- I regularly (not really) write articles on [blog](https://amherley.vercel.app/blog)
 - Ask me about **React, NextJS, Django, NodeJS, TypeScript, TailWindCss**
 - How to reach me **marcherleyantoine@gmail.com**
 - Know about my experiences [here](https://herley.netlify.app/certificat.pdf)
