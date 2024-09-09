@@ -7,7 +7,7 @@
 *Veni, vidi, codi* (I came, I saw, I coded)
 
 ### What I'm working on
-- 🌱 I'm currently working on [AlloBillet](https://amherley.vercel.app/)
+- 🌱 I'm currently working on [AlloBillet](https://github.com/10d3/maplas)
 
 ### About Me
 - 📝 I write regularly on my [Blog](https://amherley.vercel.app/blog)
