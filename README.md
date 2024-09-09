@@ -1,3 +1,5 @@
+<img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/145665-pbXoaav2n51N.jpg" alt="aherleym" height="auto" width="100%" />
+
 # Hey, I'm Rley 👋🏼
 
 ## A passionate full-stack developer
