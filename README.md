@@ -1,4 +1,4 @@
-<img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/145665-pbXoaav2n51N.jpg" alt="aherleym" height="auto" width="100%" />
+<img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/161964-a3MIPlFGpwbo.jpg" alt="aherleym" height="auto" width="100%" />
 
 # Hey, I'm Rley 👋🏼
 
