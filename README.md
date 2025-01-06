@@ -10,8 +10,8 @@
 - 🌱 I'm currently working on [AlloBillet](https://github.com/10d3/maplas)
 
 ### About Me
-- 📝 I write regularly on my [Blog](https://amherley.vercel.app/blog)
-- 🌐 Check out my [Portfolio](https://amherley.vercel.app/)
+- 📝 I write regularly on my [Blog](https://amherley.dev/blog)
+- 🌐 Check out my [Portfolio](https://amherley.dev/)
 - 👨‍💻 Fun fact: A programmer is a machine that turns coffee into code ☕💻
 
 
