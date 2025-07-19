@@ -8,7 +8,7 @@ I enjoy working with APIs, clean architecture, and building things that are fast
 
 Outside of coding, you’ll usually find me watching anime like _**Attack on Titan**_ or _**Berserk**_, sketching, or enjoying a cup of coffee with _profiterole_ (yes, it’s as good as it sounds).
 
-##3 A few random facts:
+### A few random facts:
 
 - I’m all about dark, emotional anime
 - Coffee + pastries = happiness
