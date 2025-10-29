@@ -13,3 +13,4 @@ Outside of coding, you’ll usually find me watching anime like _**Attack on Tit
 - I’m all about dark, emotional anime
 - Coffee + pastries = happiness
 - Coding at night just feels right
+- Eh, I use Arch, btw...
