@@ -14,3 +14,5 @@ Outside of coding, you’ll usually find me watching anime like _**Attack on Tit
 - Coffee + pastries = happiness
 - Coding at night just feels right
 - Eh, I use Arch, btw...
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Rley&theme=github_dark)
