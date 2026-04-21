@@ -7,12 +7,3 @@ I'm [**Herley**](https://amherley.dev), a fullstack dev.
 I enjoy working with APIs, clean architecture, and building things that are fast, reliable, and easy to maintain.
 
 Outside of coding, you’ll usually find me watching anime like _**Attack on Titan**_ or _**Berserk**_, sketching, or enjoying a cup of coffee with _profiterole_ (yes, it’s as good as it sounds).
-
-### A few random facts:
-
-- I’m all about dark, emotional anime
-- Coffee + pastries = happiness
-- Coding at night just feels right
-- Eh, I use Arch, btw...
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Rley&theme=github_dark)
