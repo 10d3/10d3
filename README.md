@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm 10D3 👋
+## Hi, I'm Marc-Herley 👋
 
 **Full-stack dev who loves coding, anime, and gaming. Let's build something awesome!**
 
