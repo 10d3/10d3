@@ -20,6 +20,3 @@
 
 [![pressmatic ⭐ 3](https://www.shieldcn.dev/github/stars/10d3/pressmatic.svg?variant=secondary)](https://github.com/10d3/pressmatic) [![starter-kit ⭐ 2](https://www.shieldcn.dev/github/stars/10d3/starter-kit.svg?variant=secondary)](https://github.com/10d3/starter-kit) [![job-hunting ⭐ 2](https://www.shieldcn.dev/github/stars/10d3/job-hunting.svg?variant=secondary)](https://github.com/10d3/job-hunting) [![store-template ⭐ 2](https://www.shieldcn.dev/github/stars/10d3/store-template.svg?variant=secondary)](https://github.com/10d3/store-template) [![ai-multi-track-backend ⭐ 2](https://www.shieldcn.dev/github/stars/10d3/ai-multi-track-backend.svg?variant=secondary)](https://github.com/10d3/ai-multi-track-backend) [![masha ⭐ 1](https://www.shieldcn.dev/github/stars/10d3/masha.svg?variant=secondary)](https://github.com/10d3/masha)
 
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
