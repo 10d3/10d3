@@ -4,7 +4,7 @@
 
 ## Hi, I'm Marc-Herley 👋
 
-**Full-stack dev who loves coding, anime, and gaming. Let's build something awesome!**
+**Full-stack dev who loves coding, anime, and gaming. Let's build something awesome!!**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%4010d3-181717.svg?logo=github&variant=branded)](https://github.com/10d3) [![X Follow](https://www.shieldcn.dev/x/follow/kryptoeden7.svg?variant=branded)](https://x.com/kryptoeden7) [![Website](https://www.shieldcn.dev/badge/Website-amherley.dev-181717.svg?logo=ri%3ALuLink&variant=branded)](https://amherley.dev/)
 
